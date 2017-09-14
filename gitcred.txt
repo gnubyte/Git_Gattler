@@ -1,0 +1,6 @@
+[credential]
+    helper = cache --timeout 30000000
+	helper = username --username ReplaceEmail@domain.com
+	helper = password --password ReplacePassword
+	helper = host --host ReplaceHostSite (Example: https://github.com)
+	helper = protocol --protocol https
